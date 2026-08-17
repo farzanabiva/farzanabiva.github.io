@@ -2,7 +2,7 @@
 
 Personal portfolio website of **Farzana Afroz**, an oceanographer specializing in marine biogeochemistry, coastal habitat mapping, and blue carbon research. Built as a single-page site presenting academic background, research assistantships, publications, technical skills, and awards.
 
-**Live site:** https://github.com/farzanabiva/farzanabiva.github.io
+**Live site:** https:farzanabiva.github.io
 
 ## About
 
